@@ -17,4 +17,3 @@ github_username:  nocusds
 
 # Build settings
 markdown: kramdown
-destination: ../nocusds.github.io
